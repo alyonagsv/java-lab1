@@ -13,7 +13,8 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-
+.idea/uiDesigner.xml
+.idea/vcs.xml
 ### Другие файлы ###
 lab1.iml
 
